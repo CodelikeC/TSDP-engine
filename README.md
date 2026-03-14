@@ -4,6 +4,10 @@ A **TypeScript-based data pipeline engine** designed to transform raw data into 
 
 This project demonstrates how **type safety, modular architecture, and streaming pipelines** can be combined to build reliable data processing systems suitable for AI/ML workflows.
 
+<p align="center">
+  <img src="assets/TSDP-engine.png" alt="TSDP Logo" width="1024" length = "1024"/>
+</p>
+
 ---
 
 # Overview
