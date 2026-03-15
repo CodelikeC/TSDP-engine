@@ -1,4 +1,4 @@
-import { Pipeline } from "./pipline"
+import { Pipeline } from "./pipeline"
 
 export class Engine<I, O>{
     constructor(private pipeline: Pipeline<I, O> ){}
